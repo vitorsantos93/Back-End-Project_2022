@@ -1,0 +1,83 @@
+.margin1 {
+    margin-top: 2rem;
+    margin-right: 4rem;
+}
+
+.paddingLi {
+    padding: 5px 45px 5px 45px;
+}
+
+.paddingLi2 {
+    padding: 0 110px
+}
+
+.width {
+    width: 15.9rem;
+}
+
+.width2 {
+    width: 8.4rem;
+}
+
+.width3 {
+    width: 8.65rem;
+}
+
+.width4 {
+    width: 7.7rem;
+}
+
+.width5 {
+    width: 8.7rem;
+}
+
+.width6 {
+    width: 9.5rem;
+}
+
+.rounded {
+    border-radius: 20px 20px 0 0px;
+}
+
+.formatLi {
+    border-bottom: 1px solid #000;
+}
+
+.paddingTitle {
+    padding-right: 20rem;
+    padding-left: 20rem;
+}
+
+.paddingLiValues1 {
+    padding-top: 1.7rem;
+    padding-bottom: .2rem;
+}
+
+.paddingLiValues2 {
+    padding-top: 1.7rem;
+    padding-bottom: .2rem;
+}
+
+.paddingLiValues3 {
+    padding-top: 1.7rem;
+    padding-bottom: .2rem;
+}
+
+.paddingLiValues4 {
+    padding-top: 1.7rem;
+    padding-bottom: .2rem;
+}
+
+.paddingLiValues5 {
+    padding-top: 1.7rem;
+    padding-bottom: .2rem;
+}
+
+.paddingLiValues6 {
+    padding-top: 1.7rem;
+    padding-bottom: .2rem;
+}
+
+.borderLine {
+    border-bottom: 1px solid rgb(8 145 178);
+}

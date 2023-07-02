@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "6287ebedaa2a6d91e1b16d59"
+  },
+  "districtName": "Aveiro",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ec4082f4cfbcd758868e"
+  },
+  "districtName": "Beja",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ec5b82f4cfbcd7588692"
+  },
+  "districtName": "Braga",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ec6482f4cfbcd7588694"
+  },
+  "districtName": "Bragança",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ec7082f4cfbcd7588696"
+  },
+  "districtName": "Castelo Branco",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ec7982f4cfbcd7588698"
+  },
+  "districtName": "Coimbra",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ecaa360c562985093e8a"
+  },
+  "districtName": "Évora",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ecbdbe66266335f3c219"
+  },
+  "districtName": "Faro",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ecc7be66266335f3c21b"
+  },
+  "districtName": "Guarda",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ecccbe66266335f3c21d"
+  },
+  "districtName": "Leiria",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ecd2be66266335f3c21f"
+  },
+  "districtName": "Lisboa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ecddbe66266335f3c221"
+  },
+  "districtName": "Portalegre",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ecedc644f131c0df96dd"
+  },
+  "districtName": "Porto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ecf8c644f131c0df96df"
+  },
+  "districtName": "Santarém",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ecffc644f131c0df96e1"
+  },
+  "districtName": "Setúbal",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ed09c644f131c0df96e3"
+  },
+  "districtName": "Viana do Castelo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ed16c644f131c0df96e5"
+  },
+  "districtName": "Vila Real",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ed41c2e026f9ee882829"
+  },
+  "districtName": "Viseu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ed51c2e026f9ee88282b"
+  },
+  "districtName": "Madeira",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ed68c2e026f9ee88282f"
+  },
+  "districtName": "Ilha de Santa Maria",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ed75c2e026f9ee882831"
+  },
+  "districtName": "Ilha de São Miguel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ed7fc2e026f9ee882833"
+  },
+  "districtName": "Ilha Terceira",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ed97cd4a976a59c8d76e"
+  },
+  "districtName": "Ilha Graciosa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287eda1cd4a976a59c8d770"
+  },
+  "districtName": "Ilha de São Jorge",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287eda7cd4a976a59c8d772"
+  },
+  "districtName": "Ilha do Pico",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287edaecd4a976a59c8d774"
+  },
+  "districtName": "Ilha de Faial",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287edb8cd4a976a59c8d776"
+  },
+  "districtName": "Ilha das Flores",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628a71290ba0f1867bfa22ef"
+  },
+  "districtName": "Ilha do Corvo",
+  "__v": 0
+}]

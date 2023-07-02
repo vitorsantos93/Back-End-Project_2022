@@ -1,0 +1,2 @@
+__v,_id,age,county.countyName,county.district,county.id,district.districtName,district.id,firstName,gender,lastName,parish.county,parish.id,parish.parishName
+0,62976d6aa6b260adcd771316,28,Maia,,628b6ee27c37fd37a9fecde2,Porto,6287ecedc644f131c0df96dd,Vitor,Male,Santos,,628f5bcd6ae10419bd33ff88,Nogueira e Silva Escura

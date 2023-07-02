@@ -1,0 +1,3661 @@
+[{
+  "_id": {
+    "$oid": "628b50b4e8716e1f3cade3c6"
+  },
+  "countyName": "Águeda",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b50bce8716e1f3cade3c9"
+  },
+  "countyName": "Albergaria-a-Velha",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b50c4e8716e1f3cade3cc"
+  },
+  "countyName": "Anadia",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b50cfe8716e1f3cade3cf"
+  },
+  "countyName": "Arouca",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b50d5e8716e1f3cade3d2"
+  },
+  "countyName": "Aveiro",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b50dee8716e1f3cade3d5"
+  },
+  "countyName": "Castelo de Paiva",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b50e5e8716e1f3cade3d8"
+  },
+  "countyName": "Espinho",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5123e8716e1f3cade3db"
+  },
+  "countyName": "Estarreja",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5129e8716e1f3cade3de"
+  },
+  "countyName": "Santa Maria da Feira",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b512fe8716e1f3cade3e1"
+  },
+  "countyName": "Ílhavo",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b514de8716e1f3cade3e4"
+  },
+  "countyName": "Mealhada",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5152e8716e1f3cade3e7"
+  },
+  "countyName": "Murtosa",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5158e8716e1f3cade3ea"
+  },
+  "countyName": "Ovar",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5160e8716e1f3cade3ed"
+  },
+  "countyName": "Oliveira de Azeméis",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5170e8716e1f3cade3f0"
+  },
+  "countyName": "Oliveira do Bairro",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b517ae8716e1f3cade3f3"
+  },
+  "countyName": "São João da Madeira",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5184e8716e1f3cade3f6"
+  },
+  "countyName": "Sever do Vouga",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b518ce8716e1f3cade3f9"
+  },
+  "countyName": "Vagos",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5194e8716e1f3cade3fc"
+  },
+  "countyName": "Vale de Cambra",
+  "district": {
+    "id": {
+      "$oid": "6287ebedaa2a6d91e1b16d59"
+    },
+    "districtName": "Aveiro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b51bae8716e1f3cade3ff"
+  },
+  "countyName": "Aljustrel",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b51c2e8716e1f3cade402"
+  },
+  "countyName": "Almodôvar",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b51c7e8716e1f3cade405"
+  },
+  "countyName": "Alvito",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b51cde8716e1f3cade408"
+  },
+  "countyName": "Barrancos",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b51d2e8716e1f3cade40b"
+  },
+  "countyName": "Beja",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b51f7e8716e1f3cade413"
+  },
+  "countyName": "Castro Verde",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5213e8716e1f3cade416"
+  },
+  "countyName": "Cuba",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5221e8716e1f3cade419"
+  },
+  "countyName": "Ferreira do Alentejo",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5227e8716e1f3cade41c"
+  },
+  "countyName": "Mértola",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b522ce8716e1f3cade41f"
+  },
+  "countyName": "Moura",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5236e8716e1f3cade422"
+  },
+  "countyName": "Odemira",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b523be8716e1f3cade425"
+  },
+  "countyName": "Ourique",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5241e8716e1f3cade428"
+  },
+  "countyName": "Serpa",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5246e8716e1f3cade42b"
+  },
+  "countyName": "Vidigueira",
+  "district": {
+    "id": {
+      "$oid": "6287ec4082f4cfbcd758868e"
+    },
+    "districtName": "Beja"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b525fe8716e1f3cade42e"
+  },
+  "countyName": "Amares",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5266e8716e1f3cade431"
+  },
+  "countyName": "Barcelos",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b526de8716e1f3cade434"
+  },
+  "countyName": "Braga",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5274e8716e1f3cade437"
+  },
+  "countyName": "Cabeceiras de Basto",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b527ce8716e1f3cade43a"
+  },
+  "countyName": "Celorico de Basto",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5294e8716e1f3cade43d"
+  },
+  "countyName": "Esposende",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b529be8716e1f3cade440"
+  },
+  "countyName": "Fafe",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b52a0e8716e1f3cade443"
+  },
+  "countyName": "Guimarães",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b52a9e8716e1f3cade446"
+  },
+  "countyName": "Póvoa de Lanhoso",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b52b1e8716e1f3cade449"
+  },
+  "countyName": "Terras de Bouro",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b52bbe8716e1f3cade44c"
+  },
+  "countyName": "Vieira do Minho",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b52c5e8716e1f3cade44f"
+  },
+  "countyName": "Vila Nova de Famalicão",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b52e4e8716e1f3cade457"
+  },
+  "countyName": "Vila Verde",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b52ebe8716e1f3cade45a"
+  },
+  "countyName": "Vizela",
+  "district": {
+    "id": {
+      "$oid": "6287ec5b82f4cfbcd7588692"
+    },
+    "districtName": "Braga"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b532ee8716e1f3cade45d"
+  },
+  "countyName": "Alfândega da Fé",
+  "district": {
+    "id": {
+      "$oid": "6287ec6482f4cfbcd7588694"
+    },
+    "districtName": "Bragança"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5337e8716e1f3cade460"
+  },
+  "countyName": "Bragança",
+  "district": {
+    "id": {
+      "$oid": "6287ec6482f4cfbcd7588694"
+    },
+    "districtName": "Bragança"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b533ee8716e1f3cade463"
+  },
+  "countyName": "Carrazeda de Ansiães",
+  "district": {
+    "id": {
+      "$oid": "6287ec6482f4cfbcd7588694"
+    },
+    "districtName": "Bragança"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5348e8716e1f3cade466"
+  },
+  "countyName": "Freixo de Espada à Cinta",
+  "district": {
+    "id": {
+      "$oid": "6287ec6482f4cfbcd7588694"
+    },
+    "districtName": "Bragança"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5353e8716e1f3cade469"
+  },
+  "countyName": "Macedo de Cavaleiros",
+  "district": {
+    "id": {
+      "$oid": "6287ec6482f4cfbcd7588694"
+    },
+    "districtName": "Bragança"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b535be8716e1f3cade46c"
+  },
+  "countyName": "Miranda do Douro",
+  "district": {
+    "id": {
+      "$oid": "6287ec6482f4cfbcd7588694"
+    },
+    "districtName": "Bragança"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5363e8716e1f3cade46f"
+  },
+  "countyName": "Mirandela",
+  "district": {
+    "id": {
+      "$oid": "6287ec6482f4cfbcd7588694"
+    },
+    "districtName": "Bragança"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b536be8716e1f3cade472"
+  },
+  "countyName": "Mogadouro",
+  "district": {
+    "id": {
+      "$oid": "6287ec6482f4cfbcd7588694"
+    },
+    "districtName": "Bragança"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5373e8716e1f3cade475"
+  },
+  "countyName": "Torre de Moncorvo",
+  "district": {
+    "id": {
+      "$oid": "6287ec6482f4cfbcd7588694"
+    },
+    "districtName": "Bragança"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b537de8716e1f3cade478"
+  },
+  "countyName": "Vimioso",
+  "district": {
+    "id": {
+      "$oid": "6287ec6482f4cfbcd7588694"
+    },
+    "districtName": "Bragança"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b538ce8716e1f3cade47b"
+  },
+  "countyName": "Vila Flor",
+  "district": {
+    "id": {
+      "$oid": "6287ec6482f4cfbcd7588694"
+    },
+    "districtName": "Bragança"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5396e8716e1f3cade47e"
+  },
+  "countyName": "Vinhais",
+  "district": {
+    "id": {
+      "$oid": "6287ec6482f4cfbcd7588694"
+    },
+    "districtName": "Bragança"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b53dfe8716e1f3cade481"
+  },
+  "countyName": "Belmonte",
+  "district": {
+    "id": {
+      "$oid": "6287ec7082f4cfbcd7588696"
+    },
+    "districtName": "Castelo Branco"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b53e7e8716e1f3cade484"
+  },
+  "countyName": "Castelo Branco",
+  "district": {
+    "id": {
+      "$oid": "6287ec7082f4cfbcd7588696"
+    },
+    "districtName": "Castelo Branco"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b53f3e8716e1f3cade487"
+  },
+  "countyName": "Covilhã",
+  "district": {
+    "id": {
+      "$oid": "6287ec7082f4cfbcd7588696"
+    },
+    "districtName": "Castelo Branco"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b53f9e8716e1f3cade48a"
+  },
+  "countyName": "Fundão",
+  "district": {
+    "id": {
+      "$oid": "6287ec7082f4cfbcd7588696"
+    },
+    "districtName": "Castelo Branco"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5401e8716e1f3cade48d"
+  },
+  "countyName": "Idanha-a-Nova",
+  "district": {
+    "id": {
+      "$oid": "6287ec7082f4cfbcd7588696"
+    },
+    "districtName": "Castelo Branco"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5409e8716e1f3cade490"
+  },
+  "countyName": "Oleiros",
+  "district": {
+    "id": {
+      "$oid": "6287ec7082f4cfbcd7588696"
+    },
+    "districtName": "Castelo Branco"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b540ee8716e1f3cade493"
+  },
+  "countyName": "Penamacor",
+  "district": {
+    "id": {
+      "$oid": "6287ec7082f4cfbcd7588696"
+    },
+    "districtName": "Castelo Branco"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5415e8716e1f3cade496"
+  },
+  "countyName": "Proença-a-Nova",
+  "district": {
+    "id": {
+      "$oid": "6287ec7082f4cfbcd7588696"
+    },
+    "districtName": "Castelo Branco"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5420e8716e1f3cade499"
+  },
+  "countyName": "Sertã",
+  "district": {
+    "id": {
+      "$oid": "6287ec7082f4cfbcd7588696"
+    },
+    "districtName": "Castelo Branco"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b542ce8716e1f3cade49c"
+  },
+  "countyName": "Vila de Rei",
+  "district": {
+    "id": {
+      "$oid": "6287ec7082f4cfbcd7588696"
+    },
+    "districtName": "Castelo Branco"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b544ce8716e1f3cade4a4"
+  },
+  "countyName": "Vila Velha de Rodão",
+  "district": {
+    "id": {
+      "$oid": "6287ec7082f4cfbcd7588696"
+    },
+    "districtName": "Castelo Branco"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b54a5e8716e1f3cade4a7"
+  },
+  "countyName": "Arganil",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b54ade8716e1f3cade4aa"
+  },
+  "countyName": "Cantanhede",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b54b4e8716e1f3cade4ad"
+  },
+  "countyName": "Coimbra",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b54bbe8716e1f3cade4b0"
+  },
+  "countyName": "Condeixa-a-Nova",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b54c5e8716e1f3cade4b3"
+  },
+  "countyName": "Figueira da Foz",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b54cbe8716e1f3cade4b6"
+  },
+  "countyName": "Góis",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b54d0e8716e1f3cade4b9"
+  },
+  "countyName": "Lousã",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b54d7e8716e1f3cade4bc"
+  },
+  "countyName": "Mira",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b54dfe8716e1f3cade4bf"
+  },
+  "countyName": "Miranda do Corvo",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b54e7e8716e1f3cade4c2"
+  },
+  "countyName": "Montemor-o-Velho",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b54f3e8716e1f3cade4c5"
+  },
+  "countyName": "Oliveira do Hospital",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b54fbe8716e1f3cade4c8"
+  },
+  "countyName": "Pampilhosa da Serra",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5502e8716e1f3cade4cb"
+  },
+  "countyName": "Penacova",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5508e8716e1f3cade4ce"
+  },
+  "countyName": "Penela",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b550ee8716e1f3cade4d1"
+  },
+  "countyName": "Soure",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b5513e8716e1f3cade4d4"
+  },
+  "countyName": "Tábua",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b551ce8716e1f3cade4d7"
+  },
+  "countyName": "Vila Nova de Poiares",
+  "district": {
+    "id": {
+      "$oid": "6287ec7982f4cfbcd7588698"
+    },
+    "districtName": "Coimbra"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6769cc425001e96c652f"
+  },
+  "countyName": "Alandroal",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6770cc425001e96c6532"
+  },
+  "countyName": "Arraiolos",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6776cc425001e96c6535"
+  },
+  "countyName": "Borba",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b677bcc425001e96c6538"
+  },
+  "countyName": "Estremoz",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6782cc425001e96c653b"
+  },
+  "countyName": "Évora",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6789cc425001e96c653e"
+  },
+  "countyName": "Montemor-o-Novo",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6791cc425001e96c6541"
+  },
+  "countyName": "Mora",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6797cc425001e96c6544"
+  },
+  "countyName": "Mourão",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b679ecc425001e96c6547"
+  },
+  "countyName": "Portel",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b67a4cc425001e96c654a"
+  },
+  "countyName": "Redondo",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b67cacc425001e96c6552"
+  },
+  "countyName": "Reguengos de Monsaraz",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b67d3cc425001e96c6555"
+  },
+  "countyName": "Vendas Novas",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b67dccc425001e96c6558"
+  },
+  "countyName": "Viana do Alentejo",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b693b03a52f003a2bca7a"
+  },
+  "countyName": "Vila Viçosa",
+  "district": {
+    "id": {
+      "$oid": "6287ecaa360c562985093e8a"
+    },
+    "districtName": "Évora"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b699303a52f003a2bca82"
+  },
+  "countyName": "Albufeira",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b699803a52f003a2bca85"
+  },
+  "countyName": "Alcoutim",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b699d03a52f003a2bca88"
+  },
+  "countyName": "Aljezur",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b69a303a52f003a2bca8b"
+  },
+  "countyName": "Castro Marim",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b69aa03a52f003a2bca8e"
+  },
+  "countyName": "Faro",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b69b003a52f003a2bca91"
+  },
+  "countyName": "Lagoa",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b69b603a52f003a2bca94"
+  },
+  "countyName": "Lagos",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b69bc03a52f003a2bca97"
+  },
+  "countyName": "Loulé",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b69c103a52f003a2bca9a"
+  },
+  "countyName": "Monchique",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b69c603a52f003a2bca9d"
+  },
+  "countyName": "Olhão",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b69cc03a52f003a2bcaa0"
+  },
+  "countyName": "Portimão",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b69d403a52f003a2bcaa3"
+  },
+  "countyName": "São Brás de Alportel",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b69db03a52f003a2bcaa6"
+  },
+  "countyName": "Silves",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b69e103a52f003a2bcaa9"
+  },
+  "countyName": "Tavira",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b69ef03a52f003a2bcaac"
+  },
+  "countyName": "Vila do Bispo",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b69fd03a52f003a2bcaaf"
+  },
+  "countyName": "Vila Real de Santo António",
+  "district": {
+    "id": {
+      "$oid": "6287ecbdbe66266335f3c219"
+    },
+    "districtName": "Faro"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6a4503a52f003a2bcabf"
+  },
+  "countyName": "Almeida",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6a4c03a52f003a2bcac2"
+  },
+  "countyName": "Aguiar da Beira",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6a5403a52f003a2bcac5"
+  },
+  "countyName": "Celorico da Beira",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6a5d03a52f003a2bcac8"
+  },
+  "countyName": "Figueira de Castelo Rodrigo",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6a6903a52f003a2bcacb"
+  },
+  "countyName": "Fornos de Algodres",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6a7103a52f003a2bcace"
+  },
+  "countyName": "Guarda",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6a7b03a52f003a2bcad1"
+  },
+  "countyName": "Gouveia",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6a8003a52f003a2bcad4"
+  },
+  "countyName": "Manteigas",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6a8503a52f003a2bcad7"
+  },
+  "countyName": "Mêda",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6a8a03a52f003a2bcada"
+  },
+  "countyName": "Pinhel",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6a9003a52f003a2bcadd"
+  },
+  "countyName": "Seia",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6a9603a52f003a2bcae0"
+  },
+  "countyName": "Sabugal",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6aae03a52f003a2bcae8"
+  },
+  "countyName": "Trancoso",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6ab603a52f003a2bcaeb"
+  },
+  "countyName": "Vila Nova de Foz Coa",
+  "district": {
+    "id": {
+      "$oid": "6287ecc7be66266335f3c21b"
+    },
+    "districtName": "Guarda"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6cfa7c37fd37a9fecd3a"
+  },
+  "countyName": "Alcobaça",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6cff7c37fd37a9fecd3d"
+  },
+  "countyName": "Alvaiázere",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d047c37fd37a9fecd40"
+  },
+  "countyName": "Ansião",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d097c37fd37a9fecd43"
+  },
+  "countyName": "Batalha",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d187c37fd37a9fecd49"
+  },
+  "countyName": "Bombarral",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d1e7c37fd37a9fecd4c"
+  },
+  "countyName": "Caldas da Rainha",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d277c37fd37a9fecd4f"
+  },
+  "countyName": "Castanheira de Pera",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d327c37fd37a9fecd52"
+  },
+  "countyName": "Figueiró dos Vinhos",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d3a7c37fd37a9fecd55"
+  },
+  "countyName": "Leiria",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d417c37fd37a9fecd58"
+  },
+  "countyName": "Marinha Grande",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d487c37fd37a9fecd5b"
+  },
+  "countyName": "Nazaré",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d4d7c37fd37a9fecd5e"
+  },
+  "countyName": "Óbidos",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d567c37fd37a9fecd61"
+  },
+  "countyName": "Pedrógão Grande",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d5c7c37fd37a9fecd64"
+  },
+  "countyName": "Peniche",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d617c37fd37a9fecd67"
+  },
+  "countyName": "Pombal",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6d677c37fd37a9fecd6a"
+  },
+  "countyName": "Porto de Mós",
+  "district": {
+    "id": {
+      "$oid": "6287ecccbe66266335f3c21d"
+    },
+    "districtName": "Leiria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6db87c37fd37a9fecd70"
+  },
+  "countyName": "Alenquer",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6dc37c37fd37a9fecd73"
+  },
+  "countyName": "Arruda dos Vinhos",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6dca7c37fd37a9fecd76"
+  },
+  "countyName": "Azambuja",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6dd27c37fd37a9fecd79"
+  },
+  "countyName": "Cadaval",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6dd77c37fd37a9fecd7c"
+  },
+  "countyName": "Cascais",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6ddc7c37fd37a9fecd7f"
+  },
+  "countyName": "Lisboa",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6de27c37fd37a9fecd82"
+  },
+  "countyName": "Loures",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6de87c37fd37a9fecd85"
+  },
+  "countyName": "Lourinhã",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6df27c37fd37a9fecd88"
+  },
+  "countyName": "Mafra",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6df77c37fd37a9fecd8b"
+  },
+  "countyName": "Odivelas",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6dfc7c37fd37a9fecd8e"
+  },
+  "countyName": "Oeiras",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e017c37fd37a9fecd91"
+  },
+  "countyName": "Sintra",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e0a7c37fd37a9fecd94"
+  },
+  "countyName": "Sobral de Monte Agraço",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e157c37fd37a9fecd97"
+  },
+  "countyName": "Torres Vedras",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e1c7c37fd37a9fecd9a"
+  },
+  "countyName": "Vila Franca de Xira",
+  "district": {
+    "id": {
+      "$oid": "6287ecd2be66266335f3c21f"
+    },
+    "districtName": "Lisboa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e4e7c37fd37a9fecda0"
+  },
+  "countyName": "Alter do Chão",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e5a7c37fd37a9fecda3"
+  },
+  "countyName": "Arronches",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e607c37fd37a9fecda6"
+  },
+  "countyName": "Avis",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e667c37fd37a9fecda9"
+  },
+  "countyName": "Campo Maior",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e707c37fd37a9fecdac"
+  },
+  "countyName": "Castelo de Vide",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e767c37fd37a9fecdaf"
+  },
+  "countyName": "Crato",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e7c7c37fd37a9fecdb2"
+  },
+  "countyName": "Elvas",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e817c37fd37a9fecdb5"
+  },
+  "countyName": "Fronteira",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e877c37fd37a9fecdb8"
+  },
+  "countyName": "Gavião",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e8b7c37fd37a9fecdbb"
+  },
+  "countyName": "Marvão",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e927c37fd37a9fecdbe"
+  },
+  "countyName": "Monforte",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e977c37fd37a9fecdc1"
+  },
+  "countyName": "Nisa",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6e9d7c37fd37a9fecdc4"
+  },
+  "countyName": "Ponte de Sor",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6ea47c37fd37a9fecdc7"
+  },
+  "countyName": "Portalegre",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6ea97c37fd37a9fecdca"
+  },
+  "countyName": "Sousel",
+  "district": {
+    "id": {
+      "$oid": "6287ecddbe66266335f3c221"
+    },
+    "districtName": "Portalegre"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6ec97c37fd37a9fecdd3"
+  },
+  "countyName": "Amarante",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6ece7c37fd37a9fecdd6"
+  },
+  "countyName": "Baião",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6ed27c37fd37a9fecdd9"
+  },
+  "countyName": "Felgueiras",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6ed87c37fd37a9fecddc"
+  },
+  "countyName": "Gondomar",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6edd7c37fd37a9fecddf"
+  },
+  "countyName": "Lousada",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6ee27c37fd37a9fecde2"
+  },
+  "countyName": "Maia",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6ee97c37fd37a9fecde5"
+  },
+  "countyName": "Matosinhos",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6ef07c37fd37a9fecde8"
+  },
+  "countyName": "Marco de Canaveses",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6efb7c37fd37a9fecdeb"
+  },
+  "countyName": "Paços de Ferreira",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f027c37fd37a9fecdee"
+  },
+  "countyName": "Paredes",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f077c37fd37a9fecdf1"
+  },
+  "countyName": "Penafiel",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f0c7c37fd37a9fecdf4"
+  },
+  "countyName": "Porto",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f127c37fd37a9fecdf7"
+  },
+  "countyName": "Póvoa de Varzim",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f1b7c37fd37a9fecdfa"
+  },
+  "countyName": "Santo Tirso",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f217c37fd37a9fecdfd"
+  },
+  "countyName": "Trofa",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f267c37fd37a9fece00"
+  },
+  "countyName": "Valongo",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f2c7c37fd37a9fece03"
+  },
+  "countyName": "Vila do Conde",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f357c37fd37a9fece06"
+  },
+  "countyName": "Vila Nova de Gaia",
+  "district": {
+    "id": {
+      "$oid": "6287ecedc644f131c0df96dd"
+    },
+    "districtName": "Porto"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f7b7c37fd37a9fece12"
+  },
+  "countyName": "Abrantes",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f817c37fd37a9fece15"
+  },
+  "countyName": "Alcanena",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f867c37fd37a9fece18"
+  },
+  "countyName": "Almeirim",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f8b7c37fd37a9fece1b"
+  },
+  "countyName": "Alpiarça",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f907c37fd37a9fece1e"
+  },
+  "countyName": "Benavente",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f957c37fd37a9fece21"
+  },
+  "countyName": "Cartaxo",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6f9a7c37fd37a9fece24"
+  },
+  "countyName": "Chamusca",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6fa07c37fd37a9fece27"
+  },
+  "countyName": "Constância",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6fa67c37fd37a9fece2a"
+  },
+  "countyName": "Coruche",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6faa7c37fd37a9fece2d"
+  },
+  "countyName": "Entroncamento",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6fb07c37fd37a9fece30"
+  },
+  "countyName": "Ferreira do Zêzere",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6fb77c37fd37a9fece33"
+  },
+  "countyName": "Golegã",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6fbe7c37fd37a9fece36"
+  },
+  "countyName": "Mação",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6fc47c37fd37a9fece39"
+  },
+  "countyName": "Ourém",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6fca7c37fd37a9fece3c"
+  },
+  "countyName": "Rio Maior",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6fd27c37fd37a9fece3f"
+  },
+  "countyName": "Salvaterra de Magos",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6fd97c37fd37a9fece42"
+  },
+  "countyName": "Sardoal",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6fde7c37fd37a9fece45"
+  },
+  "countyName": "Santarém",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6fe37c37fd37a9fece48"
+  },
+  "countyName": "Tomar",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b6ff67c37fd37a9fece4b"
+  },
+  "countyName": "Torres Novas",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b70227c37fd37a9fece4e"
+  },
+  "countyName": "Vila Nova da Barquinha",
+  "district": {
+    "id": {
+      "$oid": "6287ecf8c644f131c0df96df"
+    },
+    "districtName": "Santarém"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b70737c37fd37a9fece57"
+  },
+  "countyName": "Alcácer do Sal",
+  "district": {
+    "id": {
+      "$oid": "6287ecffc644f131c0df96e1"
+    },
+    "districtName": "Setúbal"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b70807c37fd37a9fece5a"
+  },
+  "countyName": "Alcochete",
+  "district": {
+    "id": {
+      "$oid": "6287ecffc644f131c0df96e1"
+    },
+    "districtName": "Setúbal"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b70867c37fd37a9fece5d"
+  },
+  "countyName": "Almada",
+  "district": {
+    "id": {
+      "$oid": "6287ecffc644f131c0df96e1"
+    },
+    "districtName": "Setúbal"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b708d7c37fd37a9fece60"
+  },
+  "countyName": "Barreiro",
+  "district": {
+    "id": {
+      "$oid": "6287ecffc644f131c0df96e1"
+    },
+    "districtName": "Setúbal"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b70937c37fd37a9fece63"
+  },
+  "countyName": "Grândola",
+  "district": {
+    "id": {
+      "$oid": "6287ecffc644f131c0df96e1"
+    },
+    "districtName": "Setúbal"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b709b7c37fd37a9fece66"
+  },
+  "countyName": "Moita",
+  "district": {
+    "id": {
+      "$oid": "6287ecffc644f131c0df96e1"
+    },
+    "districtName": "Setúbal"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b70a27c37fd37a9fece69"
+  },
+  "countyName": "Montijo",
+  "district": {
+    "id": {
+      "$oid": "6287ecffc644f131c0df96e1"
+    },
+    "districtName": "Setúbal"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b70aa7c37fd37a9fece6c"
+  },
+  "countyName": "Palmela",
+  "district": {
+    "id": {
+      "$oid": "6287ecffc644f131c0df96e1"
+    },
+    "districtName": "Setúbal"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b70b17c37fd37a9fece6f"
+  },
+  "countyName": "Santiago do Cacém",
+  "district": {
+    "id": {
+      "$oid": "6287ecffc644f131c0df96e1"
+    },
+    "districtName": "Setúbal"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b70b97c37fd37a9fece72"
+  },
+  "countyName": "Seixal",
+  "district": {
+    "id": {
+      "$oid": "6287ecffc644f131c0df96e1"
+    },
+    "districtName": "Setúbal"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b70c07c37fd37a9fece75"
+  },
+  "countyName": "Sesimbra",
+  "district": {
+    "id": {
+      "$oid": "6287ecffc644f131c0df96e1"
+    },
+    "districtName": "Setúbal"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b70c57c37fd37a9fece78"
+  },
+  "countyName": "Setúbal",
+  "district": {
+    "id": {
+      "$oid": "6287ecffc644f131c0df96e1"
+    },
+    "districtName": "Setúbal"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b70ce7c37fd37a9fece7b"
+  },
+  "countyName": "Sines",
+  "district": {
+    "id": {
+      "$oid": "6287ecffc644f131c0df96e1"
+    },
+    "districtName": "Setúbal"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b70f97c37fd37a9fece84"
+  },
+  "countyName": "Arcos de Valdevez",
+  "district": {
+    "id": {
+      "$oid": "6287ed09c644f131c0df96e3"
+    },
+    "districtName": "Viana do Castelo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71007c37fd37a9fece87"
+  },
+  "countyName": "Caminha",
+  "district": {
+    "id": {
+      "$oid": "6287ed09c644f131c0df96e3"
+    },
+    "districtName": "Viana do Castelo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71057c37fd37a9fece8a"
+  },
+  "countyName": "Melgaço",
+  "district": {
+    "id": {
+      "$oid": "6287ed09c644f131c0df96e3"
+    },
+    "districtName": "Viana do Castelo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71097c37fd37a9fece8d"
+  },
+  "countyName": "Monção",
+  "district": {
+    "id": {
+      "$oid": "6287ed09c644f131c0df96e3"
+    },
+    "districtName": "Viana do Castelo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71107c37fd37a9fece90"
+  },
+  "countyName": "Paredes de Coura",
+  "district": {
+    "id": {
+      "$oid": "6287ed09c644f131c0df96e3"
+    },
+    "districtName": "Viana do Castelo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71187c37fd37a9fece93"
+  },
+  "countyName": "Ponte da Barca",
+  "district": {
+    "id": {
+      "$oid": "6287ed09c644f131c0df96e3"
+    },
+    "districtName": "Viana do Castelo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71207c37fd37a9fece96"
+  },
+  "countyName": "Ponte de Lima",
+  "district": {
+    "id": {
+      "$oid": "6287ed09c644f131c0df96e3"
+    },
+    "districtName": "Viana do Castelo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71297c37fd37a9fece99"
+  },
+  "countyName": "Valença",
+  "district": {
+    "id": {
+      "$oid": "6287ed09c644f131c0df96e3"
+    },
+    "districtName": "Viana do Castelo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71317c37fd37a9fece9c"
+  },
+  "countyName": "Viana do Castelo",
+  "district": {
+    "id": {
+      "$oid": "6287ed09c644f131c0df96e3"
+    },
+    "districtName": "Viana do Castelo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b714c7c37fd37a9fece9f"
+  },
+  "countyName": "Vila Nova de Cerveira",
+  "district": {
+    "id": {
+      "$oid": "6287ed09c644f131c0df96e3"
+    },
+    "districtName": "Viana do Castelo"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71ab7c37fd37a9fecea8"
+  },
+  "countyName": "Alijó",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71b27c37fd37a9feceab"
+  },
+  "countyName": "Boticas",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71b77c37fd37a9feceae"
+  },
+  "countyName": "Chaves",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71be7c37fd37a9feceb1"
+  },
+  "countyName": "Mesão Frio",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71c67c37fd37a9feceb4"
+  },
+  "countyName": "Mondim de Basto",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71cd7c37fd37a9feceb7"
+  },
+  "countyName": "Montalegre",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71d27c37fd37a9feceba"
+  },
+  "countyName": "Murça",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71d87c37fd37a9fecebd"
+  },
+  "countyName": "Peso da Régua",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71e07c37fd37a9fecec0"
+  },
+  "countyName": "Ribeira de Pena",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71e67c37fd37a9fecec3"
+  },
+  "countyName": "Sabrosa",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71ed7c37fd37a9fecec6"
+  },
+  "countyName": "Santa Marta de Penaguião",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b71f37c37fd37a9fecec9"
+  },
+  "countyName": "Valpaços",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b720d7c37fd37a9feced1"
+  },
+  "countyName": "Vila Pouca de Aguiar",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72167c37fd37a9feced4"
+  },
+  "countyName": "Vila Real",
+  "district": {
+    "id": {
+      "$oid": "6287ed16c644f131c0df96e5"
+    },
+    "districtName": "Vila Real"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72537c37fd37a9fecedd"
+  },
+  "countyName": "Armamar",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b725a7c37fd37a9fecee0"
+  },
+  "countyName": "Castro Daire",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72637c37fd37a9fecee3"
+  },
+  "countyName": "Carregal do Sal",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b726a7c37fd37a9fecee6"
+  },
+  "countyName": "Cinfães",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72707c37fd37a9fecee9"
+  },
+  "countyName": "Lamego",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72757c37fd37a9feceec"
+  },
+  "countyName": "Mangualde",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b727d7c37fd37a9feceef"
+  },
+  "countyName": "Moimenta da Beira",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72897c37fd37a9fecef2"
+  },
+  "countyName": "Mortágua",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b728d7c37fd37a9fecef5"
+  },
+  "countyName": "Nelas",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72947c37fd37a9fecef8"
+  },
+  "countyName": "Oliveira de Frades",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b729b7c37fd37a9fecefb"
+  },
+  "countyName": "Penedono",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72a17c37fd37a9fecefe"
+  },
+  "countyName": "Penalva do Castelo",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72a77c37fd37a9fecf01"
+  },
+  "countyName": "Resende",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72ae7c37fd37a9fecf04"
+  },
+  "countyName": "São João da Pesqueira",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72b57c37fd37a9fecf07"
+  },
+  "countyName": "Santa Comba Dão",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72c07c37fd37a9fecf0a"
+  },
+  "countyName": "São Pedro do Sul",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72c67c37fd37a9fecf0d"
+  },
+  "countyName": "Sátão",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72cb7c37fd37a9fecf10"
+  },
+  "countyName": "Sernancelhe",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72d27c37fd37a9fecf13"
+  },
+  "countyName": "Tabuaço",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72d67c37fd37a9fecf16"
+  },
+  "countyName": "Tarouca",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72da7c37fd37a9fecf19"
+  },
+  "countyName": "Tondela",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72ee7c37fd37a9fecf1c"
+  },
+  "countyName": "Vila Nova de Paiva",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b72f57c37fd37a9fecf1f"
+  },
+  "countyName": "Viseu",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b73017c37fd37a9fecf22"
+  },
+  "countyName": "Vouzela",
+  "district": {
+    "id": {
+      "$oid": "6287ed41c2e026f9ee882829"
+    },
+    "districtName": "Viseu"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7500b04f80f7a4102cdd"
+  },
+  "countyName": "Calheta",
+  "district": {
+    "id": {
+      "$oid": "6287ed51c2e026f9ee88282b"
+    },
+    "districtName": "Madeira"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7508b04f80f7a4102ce0"
+  },
+  "countyName": "Câmara de Lobos",
+  "district": {
+    "id": {
+      "$oid": "6287ed51c2e026f9ee88282b"
+    },
+    "districtName": "Madeira"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b750fb04f80f7a4102ce3"
+  },
+  "countyName": "Funchal",
+  "district": {
+    "id": {
+      "$oid": "6287ed51c2e026f9ee88282b"
+    },
+    "districtName": "Madeira"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7514b04f80f7a4102ce6"
+  },
+  "countyName": "Machico",
+  "district": {
+    "id": {
+      "$oid": "6287ed51c2e026f9ee88282b"
+    },
+    "districtName": "Madeira"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b751ab04f80f7a4102ce9"
+  },
+  "countyName": "Ponta do Sol",
+  "district": {
+    "id": {
+      "$oid": "6287ed51c2e026f9ee88282b"
+    },
+    "districtName": "Madeira"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7522b04f80f7a4102cec"
+  },
+  "countyName": "Porto Moniz",
+  "district": {
+    "id": {
+      "$oid": "6287ed51c2e026f9ee88282b"
+    },
+    "districtName": "Madeira"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b752ab04f80f7a4102cef"
+  },
+  "countyName": "Porto Santo",
+  "district": {
+    "id": {
+      "$oid": "6287ed51c2e026f9ee88282b"
+    },
+    "districtName": "Madeira"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7532b04f80f7a4102cf2"
+  },
+  "countyName": "Ribeira Brava",
+  "district": {
+    "id": {
+      "$oid": "6287ed51c2e026f9ee88282b"
+    },
+    "districtName": "Madeira"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b753ab04f80f7a4102cf5"
+  },
+  "countyName": "Santa Cruz",
+  "district": {
+    "id": {
+      "$oid": "6287ed51c2e026f9ee88282b"
+    },
+    "districtName": "Madeira"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7579b04f80f7a4102d02"
+  },
+  "countyName": "Vila do Porto",
+  "district": {
+    "id": {
+      "$oid": "6287ed68c2e026f9ee88282f"
+    },
+    "districtName": "Ilha de Santa Maria"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b75ecb04f80f7a4102d11"
+  },
+  "countyName": "Lagoa",
+  "district": {
+    "id": {
+      "$oid": "6287ed75c2e026f9ee882831"
+    },
+    "districtName": "Ilha de São Miguel"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b75f6b04f80f7a4102d14"
+  },
+  "countyName": "Nordeste",
+  "district": {
+    "id": {
+      "$oid": "6287ed75c2e026f9ee882831"
+    },
+    "districtName": "Ilha de São Miguel"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7600b04f80f7a4102d17"
+  },
+  "countyName": "Ponta Delgada",
+  "district": {
+    "id": {
+      "$oid": "6287ed75c2e026f9ee882831"
+    },
+    "districtName": "Ilha de São Miguel"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b760fb04f80f7a4102d1a"
+  },
+  "countyName": "Povoação",
+  "district": {
+    "id": {
+      "$oid": "6287ed75c2e026f9ee882831"
+    },
+    "districtName": "Ilha de São Miguel"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7620b04f80f7a4102d1d"
+  },
+  "countyName": "Ribeira Grande",
+  "district": {
+    "id": {
+      "$oid": "6287ed75c2e026f9ee882831"
+    },
+    "districtName": "Ilha de São Miguel"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b772abdf840cc0d774740"
+  },
+  "countyName": "Vila Franca do Campo",
+  "district": {
+    "id": {
+      "$oid": "6287ed75c2e026f9ee882831"
+    },
+    "districtName": "Ilha de São Miguel"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7952164016ff487c4cd0"
+  },
+  "countyName": "Angra do Heroísmo",
+  "district": {
+    "id": {
+      "$oid": "6287ed7fc2e026f9ee882833"
+    },
+    "districtName": "Ilha Terceira"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b795c164016ff487c4cd3"
+  },
+  "countyName": "Praia da Vitória",
+  "district": {
+    "id": {
+      "$oid": "6287ed7fc2e026f9ee882833"
+    },
+    "districtName": "Ilha Terceira"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7a10164016ff487c4ce2"
+  },
+  "countyName": "Santa Cruz da Graciosa",
+  "district": {
+    "id": {
+      "$oid": "6287ed97cd4a976a59c8d76e"
+    },
+    "districtName": "Ilha Graciosa"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7a7e164016ff487c4cee"
+  },
+  "countyName": "Calheta",
+  "district": {
+    "id": {
+      "$oid": "6287eda1cd4a976a59c8d770"
+    },
+    "districtName": "Ilha de São Jorge"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7a83164016ff487c4cf1"
+  },
+  "countyName": "Velas",
+  "district": {
+    "id": {
+      "$oid": "6287eda1cd4a976a59c8d770"
+    },
+    "districtName": "Ilha de São Jorge"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7acc164016ff487c4cfa"
+  },
+  "countyName": "Lages do Pico",
+  "district": {
+    "id": {
+      "$oid": "6287eda7cd4a976a59c8d772"
+    },
+    "districtName": "Ilha do Pico"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7ad5164016ff487c4cfd"
+  },
+  "countyName": "Madalena",
+  "district": {
+    "id": {
+      "$oid": "6287eda7cd4a976a59c8d772"
+    },
+    "districtName": "Ilha do Pico"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7adc164016ff487c4d00"
+  },
+  "countyName": "São Roque do Pico",
+  "district": {
+    "id": {
+      "$oid": "6287eda7cd4a976a59c8d772"
+    },
+    "districtName": "Ilha do Pico"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7b45164016ff487c4d09"
+  },
+  "countyName": "Horta",
+  "district": {
+    "id": {
+      "$oid": "6287edaecd4a976a59c8d774"
+    },
+    "districtName": "Ilha de Faial"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7b95164016ff487c4d12"
+  },
+  "countyName": "Santa Cruz das Flores",
+  "district": {
+    "id": {
+      "$oid": "6287edb8cd4a976a59c8d776"
+    },
+    "districtName": "Ilha das Flores"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7ba3164016ff487c4d15"
+  },
+  "countyName": "Lajes das Flores",
+  "district": {
+    "id": {
+      "$oid": "6287edb8cd4a976a59c8d776"
+    },
+    "districtName": "Ilha das Flores"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628b7cce164016ff487c4d1e"
+  },
+  "countyName": "Vila do Corvo",
+  "district": {
+    "id": {
+      "$oid": "628a71290ba0f1867bfa22ef"
+    },
+    "districtName": "Ilha do Corvo"
+  },
+  "__v": 0
+}]
