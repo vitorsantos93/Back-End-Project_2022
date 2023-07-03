@@ -15,8 +15,8 @@
 
 2- Project Description:
 
-	. Form that collects user data, including radio input, where each will represent each district, municipality and parish existing in Portugal, in order to 	determine where they live.
-	. As described above, the objective of this project will be to save data from user, authorized in the form, in the Database (non-relational), including 	user, district, county and parish collections.
+	. Form that collects user data, including radio input, where each will represent each district, municipality and parish existing in Portugal, in order to determine where they live.
+	. As described above, the objective of this project will be to save data from user, authorized in the form, in the Database (non-relational), including user, district, county and parish collections.
 
 3- Usage guide to start the application:
 
